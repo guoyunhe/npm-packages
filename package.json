@@ -1,0 +1,8 @@
+{
+  "name": "npm-packages",
+  "version": "1.0.0",
+  "dependencies": {
+    "rabbit-lyrics": "latest",
+    "flexbin": "latest"
+  }
+}
