@@ -3,6 +3,25 @@
   "version": "1.0.0",
   "dependencies": {
     "rabbit-lyrics": "latest",
-    "flexbin": "latest"
+    "flexbin": "latest",
+    "sticky-scroller": "latest",
+    "react-lyrics": "latest",
+    "swc-minify-webpack-plugin": "latest",
+    "lowdux": "latest",
+    "mui-icons-bootstrap": "latest",
+    "capture-website-core": "latest",
+    "react-live-typescript": "latest",
+    "bigdash": "latest",
+    "@guoyunhe/create-cli": "latest",
+    "@guoyunhe/create-node": "latest",
+    "@guoyunhe/node-scripts": "latest",
+    "uscc": "latest",
+    "package-json-from-git": "latest",
+    "@guoyunhe/downloader": "latest",
+    "@guoyunhe/react-lib-scripts": "latest",
+    "@guoyunhe/create-react-lib": "latest",
+    "@guoyunhe/react-auth": "latest",
+    "@guoyunhe/prism-theme-github": "latest",
+    "react-spd": "latest"
   }
 }
